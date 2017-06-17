@@ -1,0 +1,316 @@
+2017-06-16 18:23:48 INFO  Calculator:87 - div
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 3
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 0
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [div]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:0
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:div
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:3
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:87 - div
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 10
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 2
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [div]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:2
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:div
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:10
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:5
+2017-06-16 18:23:48 INFO  Calculator:87 - sub
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 3
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 2
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [sub]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:2
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:sub
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:3
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:1
+2017-06-16 18:23:48 INFO  Calculator:87 - mult
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 3
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 2
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [mult]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:2
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:mult
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:3
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:6
+2017-06-16 18:23:48 INFO  Calculator:87 - add
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - add
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - add
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 1
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 3
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [add, add, add]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:3
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:add
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:1
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:4
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 1
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [add, add]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:1
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:add
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:4
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:5
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - add
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - 1
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 2
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [add, add]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:2
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:add
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:1
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:3
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [add]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:3
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:add
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:5
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:8
+2017-06-16 18:23:48 INFO  Calculator:87 - let
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - a
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 5
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - let
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - b
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - mult
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - a
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - 10
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [let, let, mult]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:10
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:mult
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:a
+2017-06-16 18:23:48 INFO  Calculator:235 - b5
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:50
+2017-06-16 18:23:48 INFO  Calculator:127 - [a, b]
+2017-06-16 18:23:48 INFO  Calculator:128 - b
+2017-06-16 18:23:48 INFO  Calculator:130 - b
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - add
+2017-06-16 18:23:48 INFO  Calculator:87 - (
+2017-06-16 18:23:48 INFO  Calculator:87 - b
+2017-06-16 18:23:48 INFO  Calculator:87 - ,
+2017-06-16 18:23:48 INFO  Calculator:87 - a
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:122 - [let, add]
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:a
+2017-06-16 18:23:48 INFO  Calculator:235 - b5
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:,
+2017-06-16 18:23:48 INFO  Calculator:228 - OP:add
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:b
+2017-06-16 18:23:48 INFO  Calculator:235 - b50
+2017-06-16 18:23:48 INFO  Calculator:223 - Removing element:(
+2017-06-16 18:23:48 INFO  Calculator:255 - Calculted:55
+2017-06-16 18:23:48 INFO  Calculator:127 - [a]
+2017-06-16 18:23:48 INFO  Calculator:128 - a
+2017-06-16 18:23:48 INFO  Calculator:130 - a
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:23:48 INFO  Calculator:87 - )
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=5
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=1
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=6
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=4
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=5
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=3
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=8
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=50
+2017-06-16 18:28:31 INFO  Calculator:266 - Result=55
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=5
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=1
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=6
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=4
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=5
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=3
+2017-06-16 19:22:07 INFO  CalcServiceImpl:83 - Result=8
+2017-06-16 19:22:07 INFO  Calculator:266 - Result=50
+2017-06-16 19:22:07 INFO  Calculator:266 - Result=55
+2017-06-16 19:44:23 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 19:44:24 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 19:44:24 INFO  Calculator:266 - Result=50
+2017-06-16 19:44:24 INFO  Calculator:266 - Result=55
+2017-06-16 19:44:24 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:23:59 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:23:59 INFO  Calculator:266 - Result=50
+2017-06-16 20:23:59 INFO  Calculator:266 - Result=55
+2017-06-16 20:23:59 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:24:57 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:24:57 INFO  Calculator:266 - Result=50
+2017-06-16 20:24:57 INFO  Calculator:266 - Result=55
+2017-06-16 20:24:57 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:38:30 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:38:30 INFO  Calculator:266 - Result=50
+2017-06-16 20:38:30 INFO  Calculator:266 - Result=55
+2017-06-16 20:38:30 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:40:54 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:40:54 INFO  Calculator:266 - Result=50
+2017-06-16 20:40:54 INFO  Calculator:266 - Result=55
+2017-06-16 20:40:54 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:53:35 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:53:35 INFO  Calculator:266 - Result=50
+2017-06-16 20:53:35 INFO  Calculator:266 - Result=55
+2017-06-16 20:53:35 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 20:56:48 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 20:56:48 INFO  Calculator:266 - Result=50
+2017-06-16 20:56:48 INFO  Calculator:266 - Result=55
+2017-06-16 20:56:48 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 21:23:33 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 21:23:33 INFO  Calculator:266 - Result=50
+2017-06-16 21:23:33 INFO  Calculator:266 - Result=55
+2017-06-16 21:23:33 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 21:23:53 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 21:23:53 INFO  Calculator:266 - Result=50
+2017-06-16 21:23:53 INFO  Calculator:266 - Result=55
+2017-06-16 21:23:53 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=1
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=6
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=4
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=5
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=3
+2017-06-16 21:26:37 INFO  CalcServiceImpl:85 - Result=8
+2017-06-16 21:26:37 INFO  Calculator:266 - Result=50
+2017-06-16 21:26:37 INFO  Calculator:266 - Result=55
+2017-06-16 21:26:37 ERROR ArithmeticTest:26 - CalcServiceException trigger
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=1
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=6
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=4
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=3
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=8
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=50
+2017-06-16 22:06:45 INFO  CalcServiceImpl:82 - Result=55
+2017-06-16 22:06:45 ERROR ArithmeticTest:25 - CalcServiceException trigger
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=1
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=6
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=4
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=3
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=8
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=50
+2017-06-16 22:10:20 INFO  CalcServiceImpl:82 - Result=55
+2017-06-16 22:10:20 ERROR ArithmeticTest:25 - CalcServiceException trigger
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=1
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=6
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=4
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=3
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=8
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=50
+2017-06-16 22:10:36 INFO  CalcServiceImpl:82 - Result=55
+2017-06-16 22:10:36 ERROR ArithmeticTest:25 - CalcServiceException trigger
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=1
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=6
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=4
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=3
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=8
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=50
+2017-06-16 22:12:35 INFO  CalcServiceImpl:82 - Result=55
+2017-06-16 22:12:35 ERROR ArithmeticTest:22 - CalcServiceException trigger
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=1
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=6
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=4
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=5
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=3
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=8
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=50
+2017-06-16 22:13:12 INFO  CalcServiceImpl:82 - Result=55
+2017-06-16 22:13:12 ERROR ArithmeticTest:22 - CalcServiceException trigger
